@@ -46,12 +46,12 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Course Overview",
+    "title": "Course Template",
     "section": "",
-    "text": "This is the central repository for the lecture notes for CSCI/CISE 1056. These notes provide an overview of the content covered during lecture and will be available as the reference during some labs.\nMore in-depth information from the official textbook can be found in the supplementary reading folder in each content section of Blackboard.",
+    "text": "This is the central repository for the lecture notes for COURSE.",
     "crumbs": [
       "Course Info",
-      "Course Overview"
+      "Course Template"
     ]
   }
 ]
